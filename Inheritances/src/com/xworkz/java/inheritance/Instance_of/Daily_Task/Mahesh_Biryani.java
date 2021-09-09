@@ -6,11 +6,11 @@ public class Mahesh_Biryani {
 		 void mouth (Biryani  biryani ) {
 			
 		
-			if (biryani  instanceof Veg_Biryani ) {
-				System.out.println("wow I got veg_biryani .....!");
+			if (biryani  instanceof Biryani ) {
+				System.out.println("wow I got " +biryani);
 			}
 			else {
-				System.out.println("wow I got non_biryani ....!");
+				System.out.println("It is not biryani");
 			}
 				
 

@@ -8,10 +8,10 @@ public class Mahesh_Biryani_Tester {
 
 		Veg_Biryani veg_biryani = new Veg_Biryani();
 		Non_Biryani non_biryani = new Non_Biryani();
-		
-		Mahesh Mahesh_Biryani = new Mahesh();
-		Mahesh_Biryani.mouth (veg_biryani);
-
+		Mahesh_Biryani Mahesh_Biryani = new Mahesh_Biryani();
+		GreenBriyani greenBriyani=new GreenBriyani();
+		Mahesh_Biryani.mouth(non_biryani);
+       
 	}
 
 }
