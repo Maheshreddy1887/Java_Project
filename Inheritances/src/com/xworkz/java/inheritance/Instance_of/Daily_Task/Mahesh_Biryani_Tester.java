@@ -11,7 +11,21 @@ public class Mahesh_Biryani_Tester {
 		Mahesh_Biryani Mahesh_Biryani = new Mahesh_Biryani();
 		GreenBriyani greenBriyani=new GreenBriyani();
 		Mahesh_Biryani.mouth(non_biryani);
+		
+		
        
+	}
+	{
+	Mahesh	mahesh2=new Mahesh();
+		System.out.println("Mahesh2");
+	}
+	static {
+		  System.out.println("Mahesh");
+	}
+	
+	{
+		Mahesh	mahesh1=new Mahesh();
+		System.out.println("Mahesh1");
 	}
 
 }
